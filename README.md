@@ -1,11 +1,15 @@
-<div align="center">
+# Code Liberate Portal
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Code Liberate Portal is a high-end web development agency platform and client portal built with React, Vite, Tailwind CSS, and Firebase.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Marketing Site**: High-end landing pages, portfolio showcases, process breakdown, pricing calculator, FAQ, and contact page.
+- **Client Portal & Dashboard**: Secure Google Authentication via Firebase, order tracking, real-time status updates, request submissions, direct messaging/activity stream, and profile management.
+- **Email Notifications**: Integrated with EmailJS for instant client request dispatch.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Tech Stack
+- React 19 / TypeScript / Vite
+- Tailwind CSS v4
+- Firebase Auth & Firestore
+- Lucide React / Motion
+- React Router v7
